@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm My'Keyia Neal👋
 
-<!--
-**mykeyiajohn101-web/mykeyiajohn101-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from [Mississippi]
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on github,codéx,and learning from skillup online.
+* 🌱 I’m currently learning ...
+* 👯 I’m looking to collaborate on ...
+* 💬 Ask me about ...
+* 📫 How to reach me: [mykeyiajohn101@gmail.com]
+* ⚡ Fun fact: ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+Here are a few technologies I've been working with recently:
+
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend:** Node.js, Express, Python
+* **Database:** MongoDB, SQL
+* **Tools:** Git, Docker, VS Code
+
+
+---
+
+### 🔗 Connect with me:
+https://www.linkedin.com/in/my-keyia-neal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
